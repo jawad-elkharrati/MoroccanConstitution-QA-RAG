@@ -1,0 +1,10 @@
+streamlit
+langchain
+sentence-transformers
+faiss-cpu
+torch
+transformers
+accelerate
+tiktoken
+langchain-community
+langchain-core
