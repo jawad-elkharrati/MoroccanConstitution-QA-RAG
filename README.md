@@ -47,7 +47,7 @@ Built with:
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/<your-username>/MoroccanConstitution-QA-RAG.git
+   git clone https://github.com/jawad-elkharrati/MoroccanConstitution-QA-RAG.git
    cd MoroccanConstitution-QA-RAG
    ```
 
